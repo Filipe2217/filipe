@@ -5,6 +5,7 @@
 .fundo{
     background-image: url('https://previews.123rf.com/images/wimage72/wimage721606/wimage72160600083/58893757-vista-da-calculadora-no-fundo-de-couro-velho.jpg');
     height: 100vh;
+    background-size: 100%
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
